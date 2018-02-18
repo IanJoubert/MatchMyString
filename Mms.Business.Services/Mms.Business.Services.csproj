@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="4.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Mms.Framework.Comparers\Mms.Framework.Comparers.csproj" />
+    <ProjectReference Include="..\Mms.Framework.Validators\Mms.Framework.Validators.csproj" />
+  </ItemGroup>
+
+</Project>

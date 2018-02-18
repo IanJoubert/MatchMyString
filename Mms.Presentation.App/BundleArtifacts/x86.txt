@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Ian.Joubert\source\repos\MatchMyString\Mms.Presentation.App\bin\x86\Release\Mms.Presentation.App_1.0.0.0_x86.appx
+SymbolPackage=C:\Users\Ian.Joubert\source\repos\MatchMyString\Mms.Presentation.App\AppPackages\Mms.Presentation.App_1.0.0.0_Test\Mms.Presentation.App_1.0.0.0_x86.appxsym
